@@ -1,0 +1,7 @@
+Hello!
+
+Please access to this url in your browser to download the /data folder.
+
+Remember to include this folder inside the project's path
+
+https://www.dropbox.com/sh/g3kjs8euu84jc7u/AAAwbWbb-rm5xo1MfZS-PucFa?dl=0
